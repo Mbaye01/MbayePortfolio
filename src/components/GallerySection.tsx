@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { Dialog, DialogContent } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
@@ -8,6 +7,11 @@ const GallerySection = () => {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   const images = [
+    {
+      src: "/lovable-uploads/87bf80bb-465f-4e6a-ba68-36e65a984f0c.png",
+      alt: "Photo professionnelle",
+      category: "IT"
+    },
     {
       src: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       alt: "Développement informatique",

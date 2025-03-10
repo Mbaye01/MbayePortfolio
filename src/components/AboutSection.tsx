@@ -10,13 +10,13 @@ const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
           <div>
             <p className="text-lg text-gray-700 mb-6">
-              Je suis un professionnel passionné par les nouvelles technologies, spécialisé dans les domaines de l'Intelligence Artificielle, l'IT et le Digital Workspace Management (DWM).
+              Je suis un spécialiste numérique, passionné par les technologies de l'information et de la communication, avec une expertise en développement web, gestion d'infrastructures IT et intelligence artificielle.
             </p>
             <p className="text-lg text-gray-700 mb-6">
-              Avec plus de 5 ans d'expérience dans le secteur technologique, j'ai développé une expertise approfondie dans la création de solutions innovantes qui répondent aux besoins complexes des entreprises modernes.
+              Avec 4 ans d'expérience dans le secteur des NTIC, j'ai développé une approche polyvalente qui me permet d'intervenir sur divers aspects technologiques, de la conception à la formation.
             </p>
             <p className="text-lg text-gray-700">
-              Mon approche combine rigueur technique, créativité et une compréhension approfondie des enjeux business, me permettant de livrer des projets qui créent une réelle valeur ajoutée.
+              En tant que fondateur d'une agence numérique et chercheur en IA, je combine vision stratégique et expertise technique pour apporter des solutions innovantes aux défis numériques contemporains.
             </p>
           </div>
           <div className="grid grid-cols-2 gap-4">

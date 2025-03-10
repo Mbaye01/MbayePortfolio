@@ -18,7 +18,7 @@ const HeroSection = () => {
           Expert en <span className="text-portfolio-purple">IA</span>, <span className="text-portfolio-lightBlue">IT</span> et <span className="text-portfolio-darkBlue">DWM</span>
         </h1>
         <p className="text-lg sm:text-xl md:text-2xl text-gray-700 mb-12 max-w-3xl mx-auto animate-fade-in">
-          Bienvenue sur mon portfolio professionnel. Découvrez mes projets, compétences et publications dans les domaines de l'Intelligence Artificielle, l'informatique et le Digital Workspace Management.
+          Spécialiste numérique, Technicien IT, Développeur web et web mobile, Formateur en TIC, Fondateur d'une agence numérique, et Chercheur en l'IA. Fort de 4 ans d'expérience dans le domaine des NTIC, je suis motivé, dévoué et toujours prêt à relever des défis.
         </p>
         <div className="flex flex-col sm:flex-row justify-center gap-4 animate-fade-in">
           <Button onClick={() => scrollToSection('projects')} className="bg-portfolio-blue hover:bg-portfolio-darkBlue text-white px-8 py-6 text-lg">

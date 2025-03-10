@@ -15,7 +15,7 @@ const Footer = () => {
       <div className="section-container py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-1">
-            <h3 className="text-xl font-bold mb-4">Portfolio Pro</h3>
+            <h3 className="text-xl font-bold mb-4">MbayePortfolio</h3>
             <p className="text-white/80 mb-4">
               Expert en Intelligence Artificielle, IT et Digital Workspace Management.
             </p>
@@ -59,7 +59,7 @@ const Footer = () => {
           <div className="md:col-span-1">
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2">
-              <li className="text-white/80">contact@portfolio-pro.com</li>
+              <li className="text-white/80">contact@mbayeportfolio.com</li>
               <li className="text-white/80">+33 1 23 45 67 89</li>
               <li className="text-white/80">Paris, France</li>
             </ul>
@@ -68,7 +68,7 @@ const Footer = () => {
         
         <div className="mt-12 pt-6 border-t border-white/20 flex flex-col md:flex-row justify-between items-center">
           <p className="text-white/60 text-sm mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} Portfolio Pro. Tous droits réservés.
+            &copy; {new Date().getFullYear()} MbayePortfolio. Tous droits réservés.
           </p>
           <Button variant="ghost" size="icon" className="text-white/60 hover:text-white hover:bg-white/10 rounded-full" onClick={scrollToTop}>
             <ArrowUp size={20} />

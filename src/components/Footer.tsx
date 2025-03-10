@@ -59,9 +59,9 @@ const Footer = () => {
           <div className="md:col-span-1">
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2">
-              <li className="text-white/80">contact@mbayeportfolio.com</li>
-              <li className="text-white/80">+33 1 23 45 67 89</li>
-              <li className="text-white/80">Paris, France</li>
+              <li className="text-white/80">mbayenkc@gmail.com</li>
+              <li className="text-white/80">+222 43404927</li>
+              <li className="text-white/80">Nouakchott, Mauritanie</li>
             </ul>
           </div>
         </div>

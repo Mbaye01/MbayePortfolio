@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -46,20 +45,20 @@ const ContactSection = () => {
     {
       icon: <Mail className="h-5 w-5 text-portfolio-purple" />,
       label: "Email",
-      value: "contact@portfolio-pro.com",
-      link: "mailto:contact@portfolio-pro.com"
+      value: "mbayenkc@gmail.com",
+      link: "mailto:mbayenkc@gmail.com"
     },
     {
       icon: <Phone className="h-5 w-5 text-portfolio-purple" />,
       label: "Téléphone",
-      value: "+33 1 23 45 67 89",
-      link: "tel:+33123456789"
+      value: "+222 43404927",
+      link: "tel:+22243404927"
     },
     {
       icon: <MapPin className="h-5 w-5 text-portfolio-purple" />,
       label: "Adresse",
-      value: "Paris, France",
-      link: "https://maps.google.com/?q=Paris,France"
+      value: "Nouakchott, Mauritanie",
+      link: "https://maps.google.com/?q=Nouakchott,Mauritanie"
     }
   ];
 
